@@ -1,2 +1,1 @@
-# Supply-Chain-Analysis
-Developed a multi-page Power BI dashboard to evaluate supply chain performance across three key dimensions: Sales Insight, Shipping &amp; Transportation, and Supplier Performance
+Built an interactive Supply Chain Analytics Dashboard in Power BI to analyze sales performance, logistics costs, and supplier efficiency. The dashboard integrates revenue, shipping, and manufacturing metrics to identify product profitability drivers, transportation cost concentration, and supplier trade-offs between cost, quality, and lead time. Insights support data-driven decisions in procurement, pricing, and logistics optimization.
